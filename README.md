@@ -33,7 +33,7 @@ HTML, CSS, JavaScript
 
 Demo view of development:
 
-<a href="https://ayishanazreen.github.io/Glitz-Grid/">
+<a href="https://ayishanazreen.github.io/Glitz-Grid/Recording_DemoView.mp4">
   <img src="https://github.com/ayishanazreen/Glitz-Grid/blob/main/preview.png?raw=true" width="300" alt="Watch the Demo"/>
 </a>
 
