@@ -33,6 +33,6 @@ HTML, CSS, JavaScript
 
 Demo view of development:
 
-[https://github.com/user-attachments/assets/4b6af475-6d33-47de-afba-f6ab5264a6df](https://github.com/ayishanazreen/Glitz-Grid/blob/main/Recording_DemoView.mp4)
+[Click here to watch the demo video](https://raw.githubusercontent.com/ayishanazreen/<repo>/<branch>/video/demo.mp4)
 
 
